@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Noto+Serif+TC:wght@200..900&display=swap');
+
+@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+td {
+  padding: 12px;
+}
